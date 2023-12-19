@@ -1,3 +1,5 @@
+// Copyright (c) 2023 Jan Pydych
+
 #include <stdio.h>
 #include <stdint.h>
 #include <stdlib.h>

@@ -1,3 +1,5 @@
+// Copyright (c) 2023 Jan Pydych
+
 #ifndef CRC32_H
 #define CRC32_H
 

@@ -1,3 +1,5 @@
+// Copyright (c) 2023 Jan Pydych
+
 #include "crc32.h"
 
 // Lookup table for polynomial: 0x04c11db7
